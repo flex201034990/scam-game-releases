@@ -1,0 +1,26 @@
+{
+  "version": "0.1.2",
+  "url": "https://github.com/flex201034990/scam-game-releases/releases/download/game-v0.1.2/ScamCallCenter-0.1.2.zip",
+  "sha256": "86aa04cc97ab528b3d3592b9f644592ccb6537bba4bcd24c9aafa797210f0061",
+  "size": 281317425,
+  "notes": "גרסה ראשונה",
+  "mandatory": false,
+  "modes": {
+    "defaultModeId": "scams",
+    "modes": [
+      {
+        "id": "scams",
+        "name": "סקאמים",
+        "enabled": true,
+        "label": null
+      },
+      {
+        "id": "customer-service",
+        "name": "שירות לקוחות",
+        "enabled": false,
+        "label": "בקרוב"
+      }
+    ]
+  },
+  "minLauncherVersion": "0.1.0"
+}
